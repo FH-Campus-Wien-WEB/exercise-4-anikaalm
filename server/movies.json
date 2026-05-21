@@ -79,6 +79,116 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 67,
       "imdbRating": 6.9
+    },
+    "tt18831118": {
+      "imdbID": "tt18831118",
+      "Title": "Obsession",
+      "Released": "2023-04-12",
+      "Runtime": 0,
+      "Genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "Directors": [
+        "N/A"
+      ],
+      "Writers": [
+        "N/A"
+      ],
+      "Actors": [
+        "Richard Armitage",
+        "Rish Shah",
+        "Charlie Murphy"
+      ],
+      "Plot": "William falls in love with his soon-to-be daughter in law, Anna who's trying to keep both relationships but the truth always comes to light and someone is going to be hurt.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQxZDVlMWEtYTE1NS00OTRjLWI1YjMtM2UxNTQ4YTk3YjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": null,
+      "imdbRating": 5.2
+    },
+    "tt0287635": {
+      "imdbID": "tt0287635",
+      "Title": "Pokemon 4Ever: Celebi - Voice of the Forest",
+      "Released": "2002-10-10",
+      "Runtime": 75,
+      "Genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "Kunihiko Yuyama",
+        "Jim Malone"
+      ],
+      "Writers": [
+        "Hideki Sonoda",
+        "Satoshi Tajiri",
+        "Jun'ichi Masuda"
+      ],
+      "Actors": [
+        "Veronica Taylor",
+        "Rica Matsumoto",
+        "Rachael Lillis"
+      ],
+      "Plot": "Ash must stop a hunter who forces the mythical Pokémon Celebi to help him destroy a forest.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgyMzI2ODgtNGEyNC00N2U0LTgzMDQtMzgwMDI5YWFlYTliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 25,
+      "imdbRating": 5.8
+    },
+    "tt1457767": {
+      "imdbID": "tt1457767",
+      "Title": "The Conjuring",
+      "Released": "2013-07-18",
+      "Runtime": 112,
+      "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "Directors": [
+        "James Wan"
+      ],
+      "Writers": [
+        "Chad Hayes",
+        "Carey W. Hayes"
+      ],
+      "Actors": [
+        "Patrick Wilson",
+        "Vera Farmiga",
+        "Ron Livingston"
+      ],
+      "Plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 68,
+      "imdbRating": 7.5
+    },
+    "tt22898462": {
+      "imdbID": "tt22898462",
+      "Title": "The Conjuring: Last Rites",
+      "Released": "2025-09-04",
+      "Runtime": 135,
+      "Genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "Directors": [
+        "Michael Chaves"
+      ],
+      "Writers": [
+        "Ian Goldberg",
+        "Richard Naing",
+        "David Leslie Johnson-McGoldrick"
+      ],
+      "Actors": [
+        "Patrick Wilson",
+        "Vera Farmiga",
+        "Mia Tomlinson"
+      ],
+      "Plot": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 54,
+      "imdbRating": 6.2
     }
   },
   "jane": {
